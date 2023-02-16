@@ -1,0 +1,15 @@
+
+"Mausam The weather app"
+
+
+// key features
+1) button to change temp from C to F and vice versa
+2) get information about your location, humity, rain etc
+3) used api to fetch data 
+4) get information about your current location using geolocation api.
+5) title icon
+
+
+
+
+~ submitted by Amaan ali as GDSC webdev task. 

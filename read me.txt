@@ -8,6 +8,6 @@ web dev task for GDSC_NSUT // key features
 5 "VisualCrossing" api for weather information.
 6 Hosted via netlify
 
-*****IMP It might happen when you open the hosted site via link or by typing the name it does not show you your current location and it's weather condition. Don't know why this is happening, site works fine locally. So Please search city in the search box. +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ~ submitted by Amaan ali as GDSC webdev task.
